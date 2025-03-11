@@ -10,6 +10,7 @@
 * User-friendly.
 
 # Tools
+
 ## Front-end Part
 * HTML
 * CSS
@@ -18,11 +19,3 @@
 ## Back-end
 * Django
 * SQLite 3
-
-
-
-
-## Go Through This Site Then You Will Know About This Site Properly.
-=======
-# DentalDjango
->>>>>>> 409dfdd21fec4b1e9ebbfc27753137a7e99abea9
